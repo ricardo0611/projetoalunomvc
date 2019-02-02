@@ -1,0 +1,42 @@
+body
+{
+	margin: 0;
+	padding: 0;
+
+}
+
+.container
+{
+	margin-top: 5%;
+}
+
+.table thead tbody
+{
+	margin-left: 35%;
+	text-align: center;
+}
+
+#titulo
+{
+	font-size: 20px;
+	color: #20202f;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#titulo::after
+{
+	content: '';
+	display: block;
+	background-color: #f8f9fa;
+	height: 2px;
+	margin-top: 4px;
+}
+
+.table-responsive {
+	display: inline-table;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+}

@@ -1,0 +1,826 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curso",
+				"cursoEntidade"
+			],
+			[
+				"curs",
+				"cursoDAO"
+			],
+			[
+				"nume",
+				"numeroAlunos"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"Usu",
+				"UsuarioModel"
+			],
+			[
+				"res",
+				"resposta"
+			],
+			[
+				"lanca",
+				"lancamento"
+			],
+			[
+				"Cont",
+				"Conta_m"
+			],
+			[
+				"limi",
+				"limite"
+			],
+			[
+				"con",
+				"contaAluno"
+			],
+			[
+				"conta",
+				"contaAluno"
+			],
+			[
+				"id",
+				"idAluno"
+			],
+			[
+				"avisso",
+				"avisosLista"
+			],
+			[
+				"aviso",
+				"avisosLista"
+			],
+			[
+				"avis",
+				"avisosLista"
+			],
+			[
+				"Res",
+				"Responsavel_m"
+			],
+			[
+				"resp",
+				"responsavel"
+			],
+			[
+				"Respo",
+				"Responsavel_m"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"fr",
+				"from"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"COn",
+				"Conta_m"
+			],
+			[
+				"cons",
+				"const"
+			],
+			[
+				"marcelo",
+				"MARCELO-PC"
+			],
+			[
+				"MArc",
+				"MARCELO-PC"
+			],
+			[
+				"va",
+				"valorCredito"
+			],
+			[
+				"val",
+				"valorPago"
+			],
+			[
+				"Charge",
+				"Charge_Id"
+			],
+			[
+				"cha",
+				"chargeNotification"
+			],
+			[
+				"notifi",
+				"notification"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"Re",
+				"Registro"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"Reca",
+				"RecargaOnline_m"
+			],
+			[
+				"cus",
+				"custom_id"
+			],
+			[
+				"valor",
+				"valorPago"
+			],
+			[
+				"char",
+				"charge_id"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"data",
+				"dataPost"
+			],
+			[
+				"item",
+				"item0"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"entradas",
+				"entradasValidas"
+			],
+			[
+				"valo",
+				"valorCredito"
+			],
+			[
+				"cre",
+				"create_at"
+			],
+			[
+				"ch",
+				"chargeRet"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"am",
+				"ambiente"
+			],
+			[
+				"clie",
+				"clientId"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"GERE",
+				"GERENCIANET_CLIENT_SECRET"
+			],
+			[
+				"CLI",
+				"GERENCIANET_CLIENT_ID"
+			],
+			[
+				"pos",
+				"postShippingAddress"
+			],
+			[
+				"produ",
+				"produtoEntity"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"Car",
+				"Cardapio_m"
+			],
+			[
+				"produto",
+				"produto_id"
+			],
+			[
+				"w3-m",
+				"w3-margin"
+			],
+			[
+				"w3-margin",
+				"w3-margin-top"
+			],
+			[
+				"w3-ma",
+				"w3-margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"w3-larg",
+				"w3-xlarge"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"Gere",
+				"Gerencianet_Lib"
+			],
+			[
+				"prod",
+				"productPrice"
+			],
+			[
+				"pro",
+				"productPrice"
+			],
+			[
+				"w3-",
+				"w3-half"
+			],
+			[
+				"depe",
+				"dependente_id"
+			],
+			[
+				"Resp",
+				"Responsavel"
+			],
+			[
+				"codigoca",
+				"codigoCartao"
+			],
+			[
+				"w3-pad",
+				"w3-padding"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"cod",
+				"codResponsavel"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"codi",
+				"codigoDesbloqueio"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"w3-c",
+				"w3-center"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"error",
+				"errorMessage"
+			],
+			[
+				"confir",
+				"confirmaSenha"
+			],
+			[
+				"ere",
+				"eregi"
+			],
+			[
+				"erro",
+				"erroMessage"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"user",
+				"userID"
+			],
+			[
+				"face",
+				"faceId"
+			],
+			[
+				"fac",
+				"faceId"
+			],
+			[
+				"tes",
+				"testAPI"
+			],
+			[
+				"app",
+				"appID"
+			],
+			[
+				"au",
+				"authResponse"
+			],
+			[
+				"base_",
+				"base_url"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"s",
+				"src\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 236.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 524.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Winginx/home/localhost/public_html/projetoalunomvc",
+		"/C/Winginx/home/localhost/public_html/projetoalunomvc/Ricardo",
+		"/C/Winginx/home/localhost/public_html/projetoalunomvc/Ricardo/Persistencia",
+		"/C/Winginx/home/localhost/public_html/projetoalunomvc/Ricardo/Persistencia/Entidades"
+	],
+	"file_history":
+	[
+		"/C/Winginx/home/localhost/public_html/projetoalunomvc/Builder/Ricardo/RegraNegocio/CursoOnlineBuilder.php",
+		"/C/Winginx/home/localhost/public_html/projetoalunomvc/Builder/Ricardo/index.php",
+		"/C/Winginx/home/localhost/public_html/projetoalunomvc/Builder/Ricardo/Persistencia/DataAccess/CursoEntidade.php",
+		"/C/Winginx/home/localhost/public_html/projetoalunomvc/Builder/Ricardo/RegraNegocio/CursoPresencialBuilder.php",
+		"/C/Winginx/home/localhost/public_html/projetoalunomvc/Builder/Ricardo/Persistencia/DataAccess/CursoDAO.php",
+		"/D/xampp/htdocs/projetoalunomvc/Builder/Ricardo/Persistencia/DataAccess/Tabelas.sql",
+		"/D/xampp/htdocs/projetoalunomvc/Builder/Ricardo/FabricaCursosDirector.php",
+		"/D/xampp/htdocs/guerra/application/migrations/Notificacao.sql",
+		"/D/xampp/htdocs/projetoalunomvc/Builder/Ricardo/RegraNegocio/CursoBuilder.php",
+		"/D/xampp/htdocs/projetoalunomvc/Builder/Ricardo/Persistencia/DataAccess/Conexao.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/Service/iCantinaApp.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/config/routes.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/config/database.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/Login.php",
+		"/D/xampp/htdocs/projetoalunomvc/application/models/UsuarioModel.php",
+		"/D/xampp/htdocs/projetoalunomvc/application/controllers/Welcome.php",
+		"/D/xampp/htdocs/projetoalunomvc/application/views/login.php",
+		"/D/xampp/htdocs/projetoalunomvc/application/controllers/Usuario.php",
+		"/D/xampp/htdocs/projetoalunomvc/application/config/autoload.php",
+		"/D/xampp/htdocs/projetoalunomvc/application/views/welcome_message.php",
+		"/D/xampp/htdocs/projetoalunomvc/application/config/database.php",
+		"/D/xampp/htdocs/projetoalunomvc/application/config/config.php",
+		"/D/xampp/htdocs/projetoalunomvc/application/config/routes.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/config/config.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/Conta_m.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/js/service.js",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/config/constants.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/Aluno_m.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/Responsavel_m.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/Alterações Banco Para App.sql",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Service/teste.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/js/vendor/service.js",
+		"/D/xampp/htdocs/iCantinaCardPanel/system/core/Controller.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/config/autoload.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/User_m.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/Service/Account.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/AlunoService.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/Contact.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/SelectedCard.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Login.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Card/Unlock.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/js/signup.js",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Account/ConfereDependentePartial.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/RecargaOnline_m.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Account/Signup.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/.htaccess",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/js/newCredit.js",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/js/cardControl.js",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/libraries/ContaChangesType_Enum.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/Card.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/Main.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/Table ContaAlunoChanges.sql",
+		"/D/xampp/htdocs/guerra/application/migrations/tabela pessoa.sql",
+		"/D/xampp/htdocs/guerra/application/config/config.php",
+		"/D/Gloss Dist/Catalogo/DELINEADOR/Índice de D__Gloss Dist_Catalogo_DELINEADOR_.html",
+		"//TERMINAL-PC/icantina/iCantina-Terminal.exe.config",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/GerencianetCallback.php",
+		"/D/iCantina/tfs/iCantina-Terminal/iCantina-Terminal/iCantina-Terminal/Impressora/MP2032.cs",
+		"/D/iCantina/tfs/iCantina-Persistencia/iCantina-Persistencia/iCantina-Persistencia/Biz/RecargaCreditoBiz.cs",
+		"/D/iCantina/tfs/iCantina-Persistencia/iCantina-Persistencia/iCantina-Persistencia/App.Config",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/login.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/js/login.js",
+		"/D/Downloads/simple-login-form-using-css/css/style.css",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/css/login.css",
+		"/D/Downloads/simple-login-form-using-css/js/index.js",
+		"/D/Downloads/simple-login-form-using-css/index.html",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Card/Limite_updated.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/Cartao_m.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/Credit.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Credit/Backend.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Credit/test.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Credit/Index.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/vendor/composer/autoload_real.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/vendor/autoload.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/libraries/Gerencianet_Lib.php",
+		"/D/xampp/phpMyAdmin/libraries/vendor_config.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/js/CreateCharge.js",
+		"/D/iCantina/scripts BD/Trigger atualizar saldo.sql",
+		"/D/xampp/htdocs/iCantinaCardPanel/app_data/.htaccess",
+		"/D/xampp/htdocs/iCantinaCardPanel/.htaccess_prod",
+		"/C/Users/Marcelo/AppData/Local/Temp/fz3temp-2/config.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/app_data/config.php",
+		"/D/iCantina/scripts BD/2017/table da base icantinaweb.sql",
+		"/D/Downloads/icantinaweb.sql",
+		"/D/iCantina/scripts BD/2017/reset base da umbler.sql",
+		"/D/iCantina/scripts BD/2017/export tables from icantinaweb.sql",
+		"/D/iCantina/Umbler/Compra de créditos.pdf",
+		"/D/iCantina/scripts BD/tabelas Usuario, Cantina, Responsavel, Aluno e Cartao.sql",
+		"/D/iCantina/scripts BD/trigger bloqueio cartao.sql",
+		"/D/iCantina/scripts BD/trigger create conta aluno.sql",
+		"/D/iCantina/scripts BD/tabela RecargaOnline.sql",
+		"/D/iCantina/scripts BD/2017/table usuario - add FacebookUserId.txt",
+		"/D/iCantina/scripts BD/2017/table usuario - add AlunoId e ResponsavelId.txt",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Credit/CreateCharge.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Credit/Notification.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/helpers/formvalidation_helper.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/libraries/formValidation.php",
+		"/C/Users/Marcelo/AppData/Local/Temp/Temp1_exemplo-boleto.zip/boleto/boleto/emitir_boleto.php",
+		"/C/Users/Marcelo/AppData/Local/Temp/Temp1_exemplo-boleto.zip/boleto/boleto/index.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Credit/Backend_.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Credit/Payment.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/js/recargaIndex.js",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Cardapio/Index.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/Cardapio_m.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/controllers/Cardapio.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/js/Cardapio_Index.js",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/header.php",
+		"/D/iCantina/scripts BD/tabela cartaoBloqueados.sql",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Credit/Billet.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/footer.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Extrato.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/css/main.css",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/Table RecargaCredito.sql",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/models/Table RecargaCredito",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Card/CardUnlocked.php",
+		"/D/Softwares/API Facebook/php-graph-sdk-4.0-dev/tests/FacebookJavaScriptLoginHelperTest.php",
+		"/D/Softwares/API Facebook/php-graph-sdk-4.0-dev/tests/FacebookCanvasLoginHelperTest.php",
+		"/D/Softwares/API Facebook/php-graph-sdk-4.0-dev/tests/FacebookRequestTest.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Account/FacebookCredentialsTest.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/composer.json",
+		"/D/xampp/htdocs/iCantinaCardPanel/composer.lock",
+		"/C/Users/Marcelo/composer.json",
+		"/D/xampp/htdocs/iCantinaCardPanel/application/views/Card/Signup.php",
+		"/D/xampp/htdocs/iCantinaCardPanel/assets/css/w3.css",
+		"/C/Users/Marcelo/Documents/Tutoriais/Bootstrap/Template-ModalLoginRegForm/index.html",
+		"/C/Users/Marcelo/Documents/Tutoriais/Bootstrap/bootstrap-login-register-forms/form-3/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"D:\\xampp\\htdocs\\iCantinaCardPanel\\application\\controllers"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"cursoPresencialI",
+			"montadoraDeCursosTestI",
+			"tipoCurso",
+			"nomeCurso",
+			"protected",
+			"ContaAlunoChanges",
+			"contaalunochanges",
+			"return json_encode($resposta);",
+			"return json_encode(",
+			"return $resposta;",
+			"ConfereDependentePartial",
+			"RegisterUser",
+			"Login/RegisterUser",
+			"ConfirmUnlock",
+			"Signup",
+			"Siginup",
+			"Sigin",
+			"Confere",
+			"confere",
+			"Changes",
+			"colegio",
+			"home.js",
+			"largura",
+			"Notification",
+			"Credit/Notification",
+			"logException",
+			"guzzle",
+			"actionForm: 'credit/backend'",
+			"selected",
+			"ci_s",
+			"swed",
+			"latin1_swedish_ci",
+			"cartaobloqueado",
+			"CHARSET=latin1_swedish_ci",
+			"itemvenda",
+			"categoria",
+			"cantina",
+			"escola",
+			"aluno",
+			"venda",
+			"usuario",
+			"recargaonline",
+			"recargacredito",
+			"proprietario",
+			"produtobloqueado",
+			"produto",
+			"contaaluno",
+			"responsavel",
+			"=latin1",
+			"latin1_swedish_ci",
+			"latin1",
+			"CHARSET=latin1;",
+			"token",
+			"$this->load->model('RecargaOnline_m')",
+			"client",
+			"                    $",
+			"()},",
+			"usuario",
+			"header",
+			"\"",
+			"validarEmail",
+			"dataPost",
+			"checkLoginState",
+			"testAPI",
+			"fbAsyncInit",
+			"\">\n",
+			"shieldProgressBar",
+			">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cursoOnline",
+			"cursoPresencial",
+			"tipo",
+			"nome",
+			"$this->response->setContent(json_encode($resposta));",
+			"print_r(",
+			"return json_encode($resposta);",
+			"actionForm: base_url + 'credit/backend'",
+			"CartaoBloqueado",
+			"CHARSET=latin1",
+			"ItemVenda",
+			"Categoria",
+			"Cantina",
+			"Escola",
+			"Aluno",
+			"Venda",
+			"Usuario",
+			"RecargaOnline",
+			"RecargaCredito",
+			"Proprietario",
+			"ProdutoBloqueado",
+			"Produto",
+			"ContaAluno",
+			"Responsavel",
+			"=latin1_swedish_ci",
+			"latin1;",
+			"latin1_swedish_ci;",
+			"CHARSET=latin1_swedish_ci;"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Projeto_tcc_Ricardo.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Cons",
+				"application\\config\\constants.php"
+			],
+			[
+				"service.js",
+				"assets\\js\\service.js"
+			],
+			[
+				"autolo",
+				"application\\config\\autoload.php"
+			],
+			[
+				"config",
+				"application\\config\\config.php"
+			],
+			[
+				"login",
+				"application\\controllers\\Login.php"
+			],
+			[
+				"database",
+				"application\\config\\database.php"
+			],
+			[
+				"route",
+				"application\\config\\routes.php"
+			],
+			[
+				"User_m",
+				"application\\models\\User_m.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

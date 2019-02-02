@@ -1,0 +1,25 @@
+body{
+	background: #f5f6fa;
+	margin:0;
+	padding:0;
+}
+
+.navbar
+{
+	background-color: #222f3e !important;
+}
+
+.row{
+	margin-top: 2%;
+}
+
+.carousel-inner
+{
+	margin-top: 1%;
+}
+
+.carousel-inner div img
+{
+	max-width: 100%;
+	min-height: 100%;
+}
